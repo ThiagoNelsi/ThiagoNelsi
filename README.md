@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Architecture para REST APIs com Node.js](https://medium.com/@thiagonelsi/arquitetura-simples-para-rest-apis-com-node-js-159d93057e5c?source=rss-65aecdd49483------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
