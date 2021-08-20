@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up an auto backup routine for MongoDB w/ Docker](https://medium.com/@thiagonelsi/setting-up-an-auto-backup-routine-for-mongodb-w-docker-55845f984759?source=rss-65aecdd49483------2)
 - [Clean Architecture em REST APIs com Node.js](https://medium.com/@thiagonelsi/arquitetura-simples-para-rest-apis-com-node-js-159d93057e5c?source=rss-65aecdd49483------2)
 <!-- BLOG-POST-LIST:END -->
 
