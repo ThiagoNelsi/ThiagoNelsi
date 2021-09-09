@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">Student and fellow at "IFSULDEMINAS Campus Inconfidentes" - In love with tech <3</h3>
 
-- 💻 Fellow at IFSULDEMINAS.
+- 💻 Fellow as FullStack Developer (Node.js and React) at IFSULDEMINAS.
   
-- 🔭 I’m currently working on SisProva (private project)
+- 🔭 I’m currently working on SisProva, which is a system to create and manage school tests, totally integrated with Google Classroom. SisProva allows teachers to create tests that have their questions chosen randomly for each student based on a question bank maintained by the teacher.
 
 - 🌱 I’m currently learning **TypeScript, React, TDD and Clean Architecture**
 
