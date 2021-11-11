@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up an auto backup routine for MongoDB w/ Docker](https://medium.com/@thiagonelsi/setting-up-an-auto-backup-routine-for-mongodb-w-docker-55845f984759?source=rss-65aecdd49483------2)
+- [How to set up an auto backup routine for MongoDB w/ Docker](https://faun.pub/setting-up-an-auto-backup-routine-for-mongodb-w-docker-55845f984759?source=rss-65aecdd49483------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
