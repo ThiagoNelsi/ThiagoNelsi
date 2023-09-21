@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">Computer Science student at UNESP - In love with tech <3</h3>
+<h3 align="center">Computer Science student at UNESP</h3>
 
 - 💻 FullStack Developer (Node.js and React).
-  
-- 🔭 I’m currently working at @DigitalHouseBrasil, as Full Stack Development Teacher.
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **thiagonelsi@gmail.com**
 
-- ⚡ Random fact **I like to play chess and musical instruments**
+- ⚡ Random fact **I like to play CS:GO and musical instruments**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
