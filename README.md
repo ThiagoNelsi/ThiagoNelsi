@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **thiagonelsi@gmail.com**
-
-- ⚡ Random fact **I like to play CS:GO and musical instruments**
+  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
