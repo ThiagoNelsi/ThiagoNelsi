@@ -10,6 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Scalable RAG System on AWS](https://medium.com/@thiagonelsi/building-a-scalable-rag-system-on-aws-dd104644560c?source=friends_link&sk=20743cbc5f22952b95433cd1f330a08e)
 - [How to set up an auto backup routine for MongoDB w/ Docker](https://faun.pub/setting-up-an-auto-backup-routine-for-mongodb-w-docker-55845f984759?source=rss-65aecdd49483------2)
 <!-- BLOG-POST-LIST:END -->
 
