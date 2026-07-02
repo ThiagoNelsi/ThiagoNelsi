@@ -36,6 +36,6 @@
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="gcp" width="40" height="40" /> </a>
 </p>
   
-[![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoNelsi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ThiagoNelsi)](https://github.com/stats-organization/github-stats-extended) -->
 
 <!-- [![Thiago's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ThiagoNelsi&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
