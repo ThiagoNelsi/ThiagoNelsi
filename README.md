@@ -1,39 +1,45 @@
-<h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">Computer Science student at UNESP</h3>
+<h1 align="center">Hi, I'm Thiago 👋</h1>
+<h3 align="center">Software Engineer | AI & Cloud | CS Student</h3>
 
-- 💻 FullStack Developer (Node.js and React).
+<p align="center">
+  I'm a Software Engineer with over 5 years of experience in Fullstack Development. I have a deep interest in software architecture and I am passionate about exploring high-performance, scalable, and event-driven systems. Recently, I've been heavily focused on learning and building AI-driven solutions and RAG architectures.
+</p>
 
-- 🌱 I’m currently learning **Machine Learning**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **thiagonelsi@gmail.com**
-  
+- 🎓 **Computer Science student** at UNESP.
+- 🔬 **Undergraduate Researcher** at UNESPETRO, working on image reconstruction and machine learning for microfossil identification.
+- 🚀 Previously led the development of **SisProva**, scaling it to hundreds of users.
+- 💡 Open-source creator of the **Dicio API**, which reached 200+ ⭐ on GitHub.
+- 🏢 **Ex-President of SECComp**, organizing a 300+ attendee tech conference and managing cross-functional teams.
+- 🇫🇷 Currently learning **French**.
 
-### Blogs posts
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** TypeScript, JavaScript, Node.js, Python, HTML/CSS
+- **Cloud (AWS):** S3, Lambda, SQS, SNS, DynamoDB, IAM, Cognito
+- **AI & Automation:** LangChain, LangGraph, OpenAI API, RAG Architecture, Vector Storage
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps:** Docker, Git
+
+### 🚀 Featured Projects
+
+- **[Luma Lingo](https://github.com/ThiagoNelsi/luma-lingo)** - An AI-powered language learning product focused on personalized lessons, a lightweight onboarding flow, and a reliable feedback loop from one lesson to the next.
+- **[AI-Powered Exam Generator]** - An end-to-end serverless RAG system hosted on AWS that transforms technical documents into exam questions.
+- **[SisProva]** - Online exam administration platform where I led the fullstack development and implemented a Redis caching layer, achieving a 15x reduction in backend response times.
+- **[Dicio API]** - A RESTful web scraping API providing linguistic data from the Portuguese dictionary.
+
+### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Scalable RAG System on AWS](https://medium.com/@thiagonelsi/building-a-scalable-rag-system-on-aws-dd104644560c?source=friends_link&sk=20743cbc5f22952b95433cd1f330a08e)
 - [How to set up an auto backup routine for MongoDB w/ Docker](https://faun.pub/setting-up-an-auto-backup-routine-for-mongodb-w-docker-55845f984759?source=rss-65aecdd49483------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiagonelsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-nelsi-b7593b1b6" height="30" width="40" /></a>
-<a href="https://medium.com/@thiagonelsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thiagonelsi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="gcp" width="40" height="40" /> </a>
+<a href="mailto:thiagonelsi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="thiagonelsi@gmail.com" height="30" /></a>
+<a href="https://linkedin.com/in/thiagonelsi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thiago-nelsi" height="30" /></a>
+<a href="https://medium.com/@thiagonelsi" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@thiagonelsi" height="30" /></a>
 </p>
   
 <!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ThiagoNelsi)](https://github.com/stats-organization/github-stats-extended) -->
