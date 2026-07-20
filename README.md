@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science student** at UNESP.
-- 🔬 **Undergraduate Researcher** at UNESPETRO, working on image reconstruction and machine learning for microfossil identification.
+- 🔬 **Undergraduate Researcher** at UNESPETRO, working on image stacking, web development and machine learning for microfossil identification.
 - 🚀 Previously led the development of **SisProva**, scaling it to hundreds of users.
 - 💡 Open-source creator of the **Dicio API**, which reached 200+ ⭐ on GitHub.
 - 🏢 **Ex-President of SECComp**, organizing a 300+ attendee tech conference and managing cross-functional teams.
