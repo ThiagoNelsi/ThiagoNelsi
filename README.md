@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Science student** at UNESP.
+- 🎓 **MsC Computer Science student** at UNESP.
 - 🔬 **Undergraduate Researcher** at UNESPETRO, working on image stacking, web development and machine learning for microfossil identification.
 - 🚀 Previously led the development of **SisProva**, scaling it to hundreds of users.
 - 💡 Open-source creator of the **Dicio API**, which reached 200+ ⭐ on GitHub.
@@ -25,7 +25,7 @@
 ### 🚀 Featured Projects
 
 - **[Luma Lingo](https://github.com/ThiagoNelsi/luma-lingo)** - An AI-powered language learning product focused on personalized lessons, a lightweight onboarding flow, and a reliable feedback loop from one lesson to the next.
-- **[AI-Powered Exam Generator]** - An end-to-end serverless RAG system hosted on AWS that transforms technical documents into exam questions.
+- **[AI-Powered Exam Generator](https://github.com/ThiagoNelsi/Test-Platform)** - An end-to-end serverless RAG system hosted on AWS that transforms technical documents into exam questions.
 - **[SisProva]** - Online exam administration platform where I led the fullstack development and implemented a Redis caching layer, achieving a 15x reduction in backend response times.
 - **[Dicio API]** - A RESTful web scraping API providing linguistic data from the Portuguese dictionary.
 
