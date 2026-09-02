@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** TypeScript, JavaScript, Node.js, Python, HTML/CSS
-- **Cloud (AWS):** S3, Lambda, SQS, SNS, DynamoDB, IAM, Cognito
+- **Cloud (AWS):** 2x AWS Certified, Cloud Practitioner & AI Practitioner
 - **AI & Automation:** LangChain, LangGraph, OpenAI API, RAG Architecture, Vector Storage
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **DevOps:** Docker, Git
